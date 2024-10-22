@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AimbotLicensingAPI.props" />
+</Project>

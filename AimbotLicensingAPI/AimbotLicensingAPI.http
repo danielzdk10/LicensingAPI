@@ -1,0 +1,6 @@
+@AimbotLicensingAPI_HostAddress = http://localhost:5118
+
+GET {{AimbotLicensingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
